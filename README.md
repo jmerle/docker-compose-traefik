@@ -1,4 +1,4 @@
-# Docker Compose Avans Traefik
+# Docker Compose Traefik
 
 A docker-compose configuration for running a [Traefik](https://traefik.io/) container to serve as a reverse proxy with automatic Let's Encrypt SSL certificates.
 
